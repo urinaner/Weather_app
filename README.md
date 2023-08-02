@@ -1,16 +1,5 @@
 # flutter_huf_project
+기본 플러터 UI 공부 및 REST API 활용하여 날씨앱 제작
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-08-02 at 19 38 30](https://github.com/urinaner/Weather_app/assets/27186972/034eb04b-bee7-4ce6-9ba6-3c0c5d604077)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
